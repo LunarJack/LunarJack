@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LunarJack
-- 👀 I’m interested in Yo-kai Watch
+- 👀 I’m interested in Yo-kai Watch modding
 - 🌱 I’m currently learning C and Swift
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
