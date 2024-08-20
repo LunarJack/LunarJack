@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LunarJack
 - 👀 I’m interested in Yo-kai Watch modding
-- 🌱 I’m currently learning C and Swift
+- 🌱 I’m currently learning html 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: He, Him, His
