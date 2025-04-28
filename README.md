@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @LunarJack
-- 👀 I’m interested in Yo-kai Watch modding
-- 🌱 I’m currently learning html 
+- 👀 I’m interested in Game Programming in java
+- 🌱 I’m currently learning OpenGL 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me: My email lcolefarrell@icloud.com
 - 😄 Pronouns: He, Him, His
 - ⚡ Fun fact: ...
 
